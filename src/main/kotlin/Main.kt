@@ -18,8 +18,8 @@ data class Numbers(
     var average: Double
 )
 
-fun calculate(nums:Array<Int>): Numbers{
- var sum = nums.sum()
-    var count = nums.count()
-    var average = nums.average()
-}
+//fun calculate(nums:Array<Int>): Numbers{
+// var sum = nums.sum()
+//    var count = nums.count()
+//    var average = nums.average()
+//}
